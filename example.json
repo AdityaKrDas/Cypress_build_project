@@ -1,0 +1,8 @@
+{
+  "article": {
+    "title": "My Article Title",
+    "aboutArticle": "This is about my article",
+    "articleDescription": "This is description of my article",
+    "tags": "#introduction #welcome"
+  }
+}
