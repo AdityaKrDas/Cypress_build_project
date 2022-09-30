@@ -49,4 +49,4 @@ Navigate to `https://demo.realworld.io/#/` to launch application in browser
 
 ## Report
 
-* Access path `../Assignment/cypress/videos/e2e_flow.spec.ts.mp4` for execution video and attached screenshots for report dashboard(in git)
+* Access path `../Assignment/cypress/videos/e2e_flow.spec.ts.mp4` for execution video and screenshots for report dashboard.
