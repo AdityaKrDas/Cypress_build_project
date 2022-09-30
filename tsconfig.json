@@ -1,0 +1,20 @@
+{
+    "include": [
+      "cypress/**/*.ts",
+      //"cypress/support/utility/helper/e2e_flow.helper.ts"
+    ],
+    "compilerOptions": {
+      "types": [
+        "cypress",
+        "node",
+      ],
+      "lib": [
+        "es2015",
+        "dom"
+      ],
+      "module": "CommonJS",
+      "target": "ES6",
+      "skipLibCheck": true,
+      "baseUrl": ".."
+    }
+  }
