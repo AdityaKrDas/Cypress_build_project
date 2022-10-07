@@ -1,7 +1,6 @@
 {
     "include": [
       "cypress/**/*.ts",
-      //"cypress/support/utility/helper/e2e_flow.helper.ts"
     ],
     "compilerOptions": {
       "types": [
